@@ -10,6 +10,5 @@
 5. [`Методы сжатия Шеннона-Фэно и Хаффмена`](https://github.com/Akaniell/Codes)
 6. [`Методы кодирования LZ77, LZ78, LZSS и LZW`](https://github.com/Akaniell/Encryption)
 
-
 ### Ссылки на социальные сети
 <a href="https://steamcommunity.com/profiles/76561198126156026/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/New_Steam_Logo_with_name.jpg/800px-New_Steam_Logo_with_name.jpg" width = 100px /> </a>
